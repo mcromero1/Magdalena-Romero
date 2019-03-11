@@ -1,1 +1,40 @@
-﻿laboratorio
+MacBook-Air-de-Magdalena:Magdalena-Romero magdalenaromeroparada$ history
+    1  ls
+    2  cd Desktop
+    3  gitclonehttps://github.com/IIC2115/Syllabus
+    4  git clone https://github.com/IIC2115/Syllabus
+    5  cd Syllabus
+    6  cd Syllabus/
+    7  cd Syllabus
+    8  cd Syllabus/
+    9  cd Desktop
+   10* 
+   11  git add *
+   12  git commit -m "se sube el lab0"
+   13  git add *
+   14  git pull
+   15  cd desktop
+   16  ls
+   17  cd Desktop
+   18  cd proga
+   19  ls
+   20  pwd
+   21  pwd
+   22  cd Desktop
+   23  cd
+   24  cd Desktop
+   25  cd progra
+   26  ls
+   27  cd respositorio
+   28  ls
+   29  cd repositorio
+   30  git clone https://github.com/mcromero1/Magdalena-Romero
+   31  cd Magdalena-Romero
+   32  ls
+   33  ls
+   34  git add *
+   35  git commit -m "subiendotexto"
+   36  git config --global --edit
+   37  git push
+   38  git pull
+   39  history
